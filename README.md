@@ -1,8 +1,8 @@
 # Beta
 
-Beehive is building two next generation crowdfunding websites, an initial beta website (beta.beehive.ngo) and a follow-up official release version (beehive.ngo). The beta website is a starting point laying out a framework for core and test UI elements and applications (toolbox [modules](https://github.com/BeehiveNGO/Modules)) to be integrated into, to model how data-driven humanitarian crowdfunding platforms can look, function and improve operational-level information sharing and coordination between humanitarian organizations and donors..
+Beehive is building two next generation crowdfunding websites, an initial beta website (**beta.beehive.ngo**) and a follow-up official release version (**beehive.ngo**). The beta website is a starting point laying out a framework for core and test UI elements and applications (toolbox [modules](https://github.com/BeehiveNGO/Modules)) to be integrated into, to model how data-driven humanitarian crowdfunding platforms can look, function and improve operational-level information sharing and coordination between humanitarian organizations and donors..
 
-Construction of the beta platform will be carried out through the Beta repository and coordinated using milestones and issues. To get involved, review the DesignOverview, join the project's relivant GitHub team/s and Beta Slack channel then let us know where and how you'd like to contribute.
+Construction of the beta platform will be carried out through the Beta repository and coordinated using milestones and issues. To get involved, review the DesignOverview, join the project's relivant [GitHub team/s]() and Beta Slack channel then let us know where and how you'd like to contribute.
 
 **Repository Contents:**
 
