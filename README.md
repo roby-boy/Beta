@@ -11,4 +11,4 @@ Construction of the beta platform will be carried out through the Beta repositor
 - [Beta Design Overview](https://github.com/BeehiveNGO/Beta/blob/master/Beta_Design_Overview.md)
 - [Milestones](https://github.com/BeehiveNGO/Beta/milestones) and [Issues](https://github.com/BeehiveNGO/Beta/issues)
 - [Website files](https://github.com/BeehiveNGO/Beta/blob/master/files.md)
-- [Contact]()
+- [Contact](https://github.com/BeehiveNGO/Beehive/wiki/Contact)
